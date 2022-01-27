@@ -69,7 +69,7 @@
         },
 
         {
-            "name": "libzip5",
+            "name": "libzip4",
             "version": ">= 1.0.1",
             "phase": "runtime",
             "modules": ["base", "aravis"]
